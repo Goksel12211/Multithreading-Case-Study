@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\carry\source\repos\MulakatSorusu-MultiThread\main.cpp(85,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SortEngine.cpp
+  Generating Code...
+  MulakatSorusu-MultiThread.vcxproj -> C:\Users\carry\source\repos\MulakatSorusu-MultiThread\Debug\MulakatSorusu-MultiThread.exe
